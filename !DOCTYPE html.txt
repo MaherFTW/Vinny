@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maher FTW - Personal Webpage</title>
+    <style>
+        body {
+            background-color: #303030;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+
+        .header {
+            text-align: center;
+            padding: 2rem;
+        }
+
+        .bio {
+            text-align: center;
+            margin: 2rem;
+        }
+
+        .bio p {
+            font-size: 1.2rem;
+        }
+
+        .footer {
+            text-align: center;
+            padding: 1rem;
+            background-color: #202020;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Maher FTW</h1>
+    </div>
+
+    <div class="bio">
+        <p>Seeking Independency, Financial freedom, Consistent excelling Mindset</p>
+    </div>
+
+    <div class="footer">
+        <p>Designed with <span style="color: #FF6F61;">&#9829;</span> by Maher FTW</p>
+    </div>
+</body>
+</html>
